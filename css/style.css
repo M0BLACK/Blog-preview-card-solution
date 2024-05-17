@@ -34,9 +34,11 @@ body {
 .title {
   padding-bottom: 12px;
 }
+
 span {
   display: block;
 }
+
 .title:hover {
   color: var(--yellow);
 }
@@ -55,6 +57,7 @@ main {
   background-color: #fff;
   text-align: left;
   border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.8) 7px 7px, rgba(0, 0, 0, 1) -1px 1px, rgba(0, 0, 0, 1) 0px -1px;
 }
 
 .card > .image {
@@ -64,6 +67,7 @@ main {
 .card > .image > img {
   max-width: 100%;
   border-radius: 10px;
+  box-shadow:  1px 1px  #0000;
 }
 
 .Learning {
