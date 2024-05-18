@@ -23,7 +23,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: "Figtree";
+  font-family: "Figtree", sans-serif;;
 }
 .image,
 .content {
